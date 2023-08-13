@@ -20,25 +20,25 @@ Bangkok serves as the capital of Thailand and stands as its largest metropolitan
 
 ## 4. Temples
 
-#﻿# 5. Hop between bars and enjoy the nightlife of Bangkok
+## 5. Hop between bars and enjoy the nightlife of Bangkok
 
-#﻿# 6. Discover replicas of famous structures
+## 6. Discover replicas of famous structures
 
-#﻿# 7. Pattaya, grab a drink at beach
+## 7. Pattaya, grab a drink at beach
 
-#﻿# 8. Take in the stunning views of city
+## 8. Take in the stunning views of city
 
-#﻿# 9. Get up close with sharks and fishes
+## 9. Get up close with sharks and fishes
 
-#﻿# 10. Visit night-markets
+## 10. Visit night-markets
 
-#﻿# 11. Pick a train to Train Market
+## 11. Pick a train to Train Market
 
-#﻿# 12. Take a bike trip around town
+## 12. Take a bike trip around town
 
-#﻿# + Go to Pataya
+## + Go to Pataya
 
-▽Check out more Bucket Lists in other popular areas in Japan!▽
+▽Check out more Bucket Lists in other popular areas in Thailand!▽
 
 -﻿ Things to do in Pattaya
 -﻿ Things to do in Chiang Mai
