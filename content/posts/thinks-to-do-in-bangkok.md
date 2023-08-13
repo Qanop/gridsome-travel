@@ -12,4 +12,34 @@ description: The list includes *30 best things to do in Bangkok* from classic
 ---
 Bangkok serves as the capital of Thailand and stands as its largest metropolitan area. It garners significant global attention as a highly sought-after tourist destination. Alongside Chiang Mai and Phuket, Bangkok constitutes one of the three essential cities for any traveler exploring Thailand. Bangkok boasts an array of captivating tourist attractions, encompassing delectable local cuisine, fashionable shopping districts, temples, party streets with music playing all night, contemporary skyscrapers, and more. The city's distinct character is further enriched by its unique culture and amicable populace, setting it apart from others.
 
-## 1﻿. Immerse yourself in Thai local culinary delights, renowned for their exquisite and unique flavours
+## 1﻿. Immerse yourself in Thai culinary delights
+
+## 2﻿. See Chinatown district
+
+## 3. Give a try to Shabu's and Korean BBQ's
+
+## 4. Temples
+
+#﻿# 5. Hop between bars and enjoy the nightlife of Bangkok
+
+#﻿# 6. Discover replicas of famous structures
+
+#﻿# 7. Pattaya, grab a drink at beach
+
+#﻿# 8. Take in the stunning views of city
+
+#﻿# 9. Get up close with sharks and fishes
+
+#﻿# 10. Visit night-markets
+
+#﻿# 11. Pick a train to Train Market
+
+#﻿# 12. Take a bike trip around town
+
+#﻿# + Go to Pataya
+
+▽Check out more Bucket Lists in other popular areas in Japan!▽
+
+-﻿ Things to do in Pattaya
+-﻿ Things to do in Chiang Mai
+
