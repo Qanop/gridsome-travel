@@ -1,64 +1,61 @@
 ---
-title: Thinks to do in Bangkok
+title: Co warto odkryć w Bangkoku
 date: 2023-08-13T15:00:13.493Z
 published: true
 tags:
-  - Things to Do
+  - Co warto odkryć
   - Bangkok
-  - Thailand
+  - Tajlandia
 cover_image: ../../static/images/uploads/thinks_to_do_in_bangkok/cover.jpg
-description: The list includes *12 best things to do in Bangkok* from classic
-  tourist attractions to trendy places that can help you to plan a perfect
-  trip...
+description: Lista zawiera *12 najlepszych rzeczy do zrobienia w Bangkoku*, od klasycznych atrakcji turystycznych do modnych miejsc, które mogą pomóc w zaplanowaniu idealnej podróż...
 ---
-Bangkok serves as the capital of Thailand and stands as its largest metropolitan area. It garners significant global attention as a highly sought-after tourist destination. Alongside Chiang Mai and Phuket, Bangkok constitutes one of the three essential cities for any traveler exploring Thailand. Bangkok boasts an array of captivating tourist attractions, encompassing delectable local cuisine, fashionable shopping districts, temples, party streets with music playing all night, contemporary skyscrapers, and more. The city's distinct character is further enriched by its unique culture and amicable populace, setting it apart from others.
+Bangkok jest stolicą Tajlandii i jej największym obszarem metropolitalnym. Przyciąga znaczną uwagę na całym świecie jako jedno z najbardziej turystycznych miast. Bangkok, obok Chiang Mai i Phuket stanowi jedno z trzech najważniejszych miast dla każdego podróżnika odkrywającego Tajlandię. Miasto oferuje szereg urzekających atrakcji turystycznych, obejmujących wyśmienitą kuchnię, modne dzielnice handlowe, świątynie, imprezowe ulice z muzyką grającą przez całą noc, współczesne drapacze chmur i wiele innych.
 
-## 1. Immerse yourself in Thai culinary delights
+## 1. Zanurz się w tajskich przysmakach kulinarnych
 ![Pad Krapow](../../static/images/uploads/thinks_to_do_in_bangkok/pad-krapow.jpeg "Pad Krapow")
 
-Thai cuisine is one of the greatest attractions to experience while in Thailand. It is here that you can discover the true flavor of the food, as well as taste new dishes that you won't necessarily be able to find in a restaurant outside of this country. Bangkok is saturated with restaurants offering dishes from all corners of Asia, but it is also worth trying national dishes such as Pad Kra Pao (Pork & Holy Basil Stir-fry), Chicken Khao Soi (Thai Coconut Curry Noodle Soup), Som Tam (Thai Green Papaya Salad), Kuay Teow Reua (Thai Boat Noodles) or Joke (Rice Poorage). Not counting the numerous streetfood stands and local markets.
-Although Thailand is mostly known for its affordable food, we can also find something to tweak our taste buds at top-tier, Michelin-starred restaurants.
+Tajska kuchnia to jedna z największych atrakcji, jakich można doświadczyć podczas pobytu w Tajlandii. To właśnie tutaj można odkryć prawdziwy smak potraw, a także spróbować nowych dań, których niekoniecznie będzie można znaleźć w restauracji poza granicami tego kraju. Bangkok jest nasycony restauracjami oferującymi dania ze wszystkich zakątków Azji, ale warto także spróbować dań narodowych, takich jak Pad Kra Pao (Smażona wieprzowina z bazylią), Chicken Khao Soi (Tajska kokosowa zupa z makaronem curry), Som Tam (Tajska sałatka z zielonej papai), Kuay Teow Reua (Zupa z tajskim makaronem) czy Joke (Zupa rużowa). Nie licząc licznych stoisk z streetfood'em i lokalnych marketów. 
+Warto również pamiętać, że chociaż Tajlandia słynie głównie z niedrogiego jedzenia, możemy również znaleźć coś, co zaspokoi nasze kubki smakowe w najlepszych restauracjach wyróżnionych gwiazdką Michelin.
 
-## 2. See Chinatown district
+## 2. Zobacz dzielnicę Chinatown
 ![Chinatown](../../static/images/uploads/thinks_to_do_in_bangkok/chinatown.jpeg "Chinatown")
-[Chinatown](https://goo.gl/maps/PaYVMF8RcnqH8vZg6) one of the largest Chinatowns in the world. It was founded in 1782 when the city was established as the capital. In the afternoon, walking through its streets, we can enjoy the charms of this district. One thing to keep in mind - in the evening hours, it can be terribly crowded here. So it's worth taking with you the least amount of things that can irritate other tourists and allow you to move freely in the crowd. In Chinatown itself, we can expect to see long streets with vendors on display, food unique to this district and a street lit up with signs from everywhere. On the outskirts of the district, we can also find 2 temples that are close to [Chinatown Gate](https://goo.gl/maps/5Cv9bQDycWHC16mG7). For people who are more curious about exotic flavors, there are restaurants in the district that offer the rather controversial fin soup. Closer to weekends, there is a chance to encounter a parade passing through the streets.
+[Chinatown](https://goo.gl/maps/PaYVMF8RcnqH8vZg6) jedno z największych chińskich miast na świecie. Zostało założone w 1782 roku, kiedy miasto zostało ustanowione stolicą. Po południu, spacerując jego uliczkami, możemy cieszyć się urokami tej dzielnicy. Choć z jedną dobrą radą - w godzinach wieczornych może być tu strasznie tłoczno. Warto więc zabrać ze sobą jak najmniej rzeczy, które mogą przeszkadzać innym turystom, a nam ograniczać swobodne poruszanie się w tłumie. W samym Chinatown możemy spodziewać się długich ulic z wystawionymi sprzedawcami, unikalnym dla tej dzielnicy jedzeniem i zewsząd rozświetloną szyldami ulicą. Na obrzeżach dzielnicy znajdziemy również 2 świątynie, które znajdują się w pobliżu [Chinatown Gate](https://goo.gl/maps/5Cv9bQDycWHC16mG7). Dla osób ciekawszych egzotycznych smaków, w dzielnicy znajdują się restauracje oferujące dość kontrowersyjną zupę z płetwy. Miłą informacją może być to, że bliżej weekendów istnieje szansa na natknięcie się na przechodzącą ulicami paradę.
 
-## 3. Give a try to Shabu's and Korean BBQ's
+## 3. Spróbuj Shabu i koreańskiego grilla
 ![Shabu](../../static/images/uploads/thinks_to_do_in_bangkok/shabu.jpeg "Shabu")
-In the world of culinary flavors, there can be no missing a word about Shabu, a style of eating so populous that often residents can arrange to go out to dinner twice a week as if not more often. What is it, though? Imagine a cauldron of broth placed on our table. Around it will be ingredients such as meat, vegetables, noodles or seafood. Having these things, simply from our liking we put them in the cauldron and cook them. The finished products we eat and share with friends. Interestingly, Shabu itself took its name from the sound of meat being dipped into the broth (shabu-shabu). Of course, this is not the only type of preparation of the dish, other variants include Mookata (a space in the center for frying meat, on the sides for soup), Korean Grill (an option for frying meat on a grate using coal or gas), or Hot Pot (a pot with broth, often exists in vetji divided in half, so we can have two broths in one pot, such as spicy and mushroom) and in some places we can get a stone grill, on which we can fry fish or prawns. Many of these places exist as all-you-can-eat buffets, giving us a time usually within 1.5h. The price usually ranges from 200-300 THB.
+W świecie kulinarnych smaków nie może zabraknąć słowa o Shabu-Shabu, stylu jedzenia tak popularnego, że często tajowie potrafią umówić się na kolację dwa razy w tygodniu, jak nie częściej. Lecz czym to właściwie jest? Wyobraźmy sobie kociołek z bulionem postawiony na naszym stole. Wokół niego znajdą się składniki takie jak mięso, warzywa, makaron czy owoce morza. Mając składniki potrawy, po prostu wedłóg naszych upodobań, zanurzamy je do kociołka i gotujemy. Gotowe produkty zjadamy (często maczając je w sosie) i dzielimy się z przyjaciółmi. Co ciekawe, sama nazwa Shabu wzięło swoją nazwę od dźwięku zanurzania przy pomocy pałeczek składnika w bulionie (shabu-shabu). Oczywiście nie jest to jedyny rodzaj przygotowania tego dania. Do innych wariantów podania tego dania należy na przykład Mookata (posiada ono miejsce w środku na smażenie mięsa, a po bokach na zupę), Korean Grill (opcja smażenia mięsa na ruszcie przy użyciu węgla lub gazu), czy Hot Pot (garnek z bulionem, często występuje w wersji podzielonej na pół, dzięki czemu możemy mieć dwa buliony w jednym garnku, np. pikantny i grzybowy). W niektórych miejscach możemy nawet dostać kamienny grill, na którym możemy usmażyć rybę lub krewetki. Wiele z tych miejsc istnieje w formie bufetu all-you-can-eat, dając nam czas zazwyczaj w granicach 1,5h. Cena zazwyczaj waha się w granicach 200-300 THB (23-35zł).
 
-Diffrent places with this concept of food:
+Różne miejsca z tą koncepcją jedzenia:
 - [โคริยะหมูกะทะ Korea Moo Ka Ta (Pork, Beef, Seafood BBQ Buffet)](https://goo.gl/maps/bjavgwLxpDidFJRF9)
 - [Nene Korean BBQ Buffet](https://goo.gl/maps/6uec5f7AxJ5nrfYN6)
 - [Khanoi Khor Shabu](https://goo.gl/maps/A4CgXPvPzuRvAy57A)
 - [Shabushi by Oishi](https://goo.gl/maps/CCednWwDBozoxyzeA)
 
-## 4. Temples
+## 4. Świątynie
 ![Wat Arun Temple](../../static/images/uploads/thinks_to_do_in_bangkok/wat-arun-temple.jpeg "Wat Arun Temple")
 
-## 5. Hop between bars and enjoy the nightlife of Bangkok
+## 5. Przeskakuj między barami i ciesz się nocnym życiem Bangkoku
 ![Khao San Road](../../static/images/uploads/thinks_to_do_in_bangkok/khao-san.jpeg "Khao San Road")
 
-## 6. Discover replicas of famous structures
+## 6. Odkryj repliki słynnych budowli
 ![The Ancient City](../../static/images/uploads/thinks_to_do_in_bangkok/the-ancient-city.jpeg "The Ancient City")
 
-## 7. Pattaya, grab a drink at beach
+## 7. Pattaya, napij się drinka na plaży
 ![Pattaya Beach](../../static/images/uploads/thinks_to_do_in_bangkok/pattaya-beach.jpeg "Pattaya Beach")
 
-## 8. Take in the stunning views of city
+## 8. Podziwiaj zachwycające widoki na miasto
 
-## 9. Get up close with sharks and fishes
+## 9. Odwiedź oceanarium w centrum miasta
 
-## 10. Visit night-markets
+## 10. Sprawdź nocne markety
 
-## 11. Pick a train to Train Market
+## 11. Wybierz pociąg do marketu przy torach (Train Market)
 
-## 12. Take a bike trip around town
+## 12. Wycieczka rowerowa po mieście
 
-## + Go to Pataya
+## + Jedź do Pattaya'i
 
-▽Check out more Bucket Lists in other popular areas in Thailand!▽
+Sprawdź więcej miejsc do odwiedzenia w innych popularnych miejscach w Tajlandii!
 
-- Things to do in Pattaya
-- Things to do in Chiang Mai
-
+- Co warto odkryć w Pattaya
+- Co warto odkryć w Chiang Mai

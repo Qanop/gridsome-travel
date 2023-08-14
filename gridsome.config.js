@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Traver thru Asia (Friend\'s notes)',
-  siteDescription: 'Friendly notes for anyone tho wants to visit Asia and see different things',
+  siteName: 'Tripy sąsiedzkie',
+  siteDescription: 'Notki dla każdego, kto chce odwiedzić Azję i nie tylko',
 
   templates: {
     Post: '/:title',
