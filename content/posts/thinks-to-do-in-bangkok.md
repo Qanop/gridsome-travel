@@ -86,7 +86,7 @@ Zaledwie 2 godziny drogi od centrum Bangkoku znajduje się drugie miasto turysty
 ![Jodd Fairs](../../static/images/uploads/thinks_to_do_in_bangkok/jodd-fairs.jpeg "Jodd Fairs")
 
 
-## 11. Wybierz pociąg do marketu przy torach (Train Market)
+## 11. Zabierz się pociągiem do marketu na torach (Train Market)
 ![Train Market](../../static/images/uploads/thinks_to_do_in_bangkok/train-market.jpeg "Train Market")
 
 
