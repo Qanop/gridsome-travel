@@ -14,6 +14,7 @@ module.exports = {
   },
 
   plugins: [
+    // TODO: Add PL / EN language https://gridsome.org/plugins/gridsome-plugin-i18n
     {
       // Create posts from markdown files
       use: '@gridsome/source-filesystem',
