@@ -1,4 +1,4 @@
-# Netlify CMS template for Gridsome
+# Netlify CMS template for Gridsome [![Netlify Status](https://api.netlify.com/api/v1/badges/ac433c6b-5e11-4f08-8567-6cba5267b056/deploy-status)](https://app.netlify.com/sites/peaceful-heliotrope-854ef4/deploys)
 
 > A simple, hackable & minimalistic starter for Gridsome that uses Netlify CMS for content.
 
