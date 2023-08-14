@@ -6,7 +6,8 @@ tags:
   - Things to Do
   - Bangkok
   - Thailand
-description: The list includes *30 best things to do in Bangkok* from classic
+cover_image: ../../static/images/uploads/3af9262b-3d8b-40c6-b61d-e37ae1aa90aa-1-.jpg
+description: The list includes *12 best things to do in Bangkok* from classic
   tourist attractions to trendy places that can help you to plan a perfect
   trip...
 ---
