@@ -9,6 +9,7 @@ tags:
 cover_image: ../../static/images/uploads/thinks_to_do_in_bangkok/cover.jpg
 description: Lista zawiera 12 najlepszych rzeczy do zrobienia w Bangkoku, od klasycznych atrakcji turystycznych do modnych miejsc, które mogą pomóc w zaplanowaniu idealnej podróży...
 ---
+
 Bangkok jest stolicą Tajlandii i jej największym obszarem metropolitalnym. Przyciąga znaczną uwagę na całym świecie jako jedno z najbardziej turystycznych miast. Bangkok, obok _Chiang Mai_ i _Phuket_ stanowi jedno z trzech najważniejszych miast dla każdego podróżnika odkrywającego Tajlandię. Miasto oferuje szereg urzekających atrakcji turystycznych, obejmujących wyśmienitą kuchnię, modne dzielnice handlowe, świątynie, imprezowe ulice z muzyką grającą przez całą noc, współczesne drapacze chmur i wiele innych.
 
 ## 1. Zanurz się w tajskich przysmakach kulinarnych
@@ -69,6 +70,7 @@ Antyczne miasto jest pełne budowli świątyń, miasta na wodzie, krypt, replik 
 
 ## 7. Pattaya, napij się drinka na plaży
 ![Pattaya Beach](../../static/images/uploads/thinks_to_do_in_bangkok/pattaya-beach.jpeg "Pattaya Beach")
+
 Zaledwie 2 godziny drogi od centrum Bangkoku znajduje się drugie miasto turystyczne — [Pattaya](https://goo.gl/maps/z6YDfAKDM73jLhXQ7). Miasto kusi turystów wszelkiego rodzaju atrakcjami, deptakiem [Walking Street](https://goo.gl/maps/1Xe7DLVS3h2r6pYA8), słynnymi spektaklami drag-show [Alcazar Cabaret Show
 ](https://goo.gl/maps/MxYdHxwbuZJmZWs78), a także piękną plażą oraz niedaleko znajdującą się wyspą [Ko Lan](https://goo.gl/maps/Rhk5o6YkC52WDXUK7). Nic dziwnego, że miasto jest to bardzo popularne wśród Tajów i turystów.
 
