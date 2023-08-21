@@ -17,11 +17,11 @@ Planując podróż do Tajlandii, wiele osób zadaje pytanie "Co warto odwiedzić
 
 Tajlandia w swoim menu ma dużo więcej do zaoferowania niż tylko Pat Thai. W ofercie każdej restauracji znajdziemy o wiele więcej pozycji, których z pewnością nie znajdziemy w europejskich restauracjach, nie licząc nawet prawdziwego streetfood. Testując nowe dania i przysmaki, myślę, że z pewnością mogę polecić dane pozycje na liście
 
-- Pad Kra Pao [Pork Stir-fry Holy Basil] — myślę, że jest to najpopularniejsze danie Tajlandii. Przysmażona bazylia z wołowiną nadaje potrawie intensywny smak i ostrość.
+- Pad Kra Pao _[Pork Stir-fry Holy Basil]_ — myślę, że jest to najpopularniejsze danie Tajlandii. Przysmażona bazylia z wołowiną nadaje potrawie intensywny smak i ostrość.
 - Khao soi — zupa curry z mlekiem kokosowym, popularna na północy Tajlandii. Ma naprawdę dobry smak curry, a chrupki makaron i warzywa dodatkowo nadają tej zupie wyjątkowości. W Polsce znajduje się tylko jedna restauracja oferującą tę zupę, więc z pewnością polecam spróbować oryginału, jak i samej kuchni północy. ([Baibua Cheng Tung and Northern Tai Cuisines](https://goo.gl/maps/bndfvCZX7CQ1qd4z6) jest jedną z niewielu restauracji w Bangkoku oferującą potrawy z tego regionu). 
-- Som Tam [Papaya Salad] — klasyczna sałatka z papaji, którą zajada się każdy taj. Istnieje w wielu rodzajach, lecz polecam spróbować klasycznej z dodatkiem kraba wzmacniającego smak owoców morza.
-- Kuay Teow Reua [Boat Noodles] — zupki z tajskim makaronem, podawane w małych porcjach. W niewielkim koszcie, mamy możliwość spróbowania tu kilku rodzajów makaronów i bulionów. Dobre, tanie i pożywne jedzenie.
-- Jok [Thai Congee]— specjalna pozycja dla tych, którzy zaszaleją za bardzo na Khaosan Rd. Jest to lekki kleik ryżowy, dostępny w lodówkach w każdym 7/11 (pamiętajcie, że każde danie w Convenience Store może być podgrzane na miejscu!)
+- Som Tam _[Papaya Salad]_ — klasyczna sałatka z papaji, którą zajada się każdy taj. Istnieje w wielu rodzajach, lecz polecam spróbować klasycznej z dodatkiem kraba wzmacniającego smak owoców morza.
+- Kuay Teow Reua _[Boat Noodles]_ — zupki z tajskim makaronem, podawane w małych porcjach. W niewielkim koszcie, mamy możliwość spróbowania tu kilku rodzajów makaronów i bulionów. Dobre, tanie i pożywne jedzenie.
+- Jok _[Thai Congee]_— specjalna pozycja dla tych, którzy zaszaleją za bardzo na Khaosan Rd. Jest to lekki kleik ryżowy, dostępny w lodówkach w każdym 7/11 (pamiętajcie, że każde danie w Convenience Store może być podgrzane na miejscu!)
 
 Na ulicach miasta można też znaleźć wiele streetfoodów oferujące mięso z grilla, kiełbaski, sałatki, lody czy gotowaną kukurydzę. Co więcej, na nocnych marketach można znaleźć dania, których nie znajdziemy typowo w restauracjach ani streetfoodach. Tak więc można powiedzieć, że każdego dnia można spróbować czegoś innego. 
 
@@ -98,7 +98,7 @@ Jedną z ciekawszych rzeczy w Bangkoku jest oceanarium [SEA LIFE Bangkok Ocean W
 ## 10. Sprawdź nocne markety
 ![Jodd Fairs](../../static/images/uploads/thinks_to_do_in_bangkok/jodd-fairs.jpeg "Jodd Fairs")
 
-Dużą zaletą Tajlandii są z pewnością markety. Znajdziemy na nich wiele różnych usługodawców jak fryzjerów, kosmetyczki, sklepiki z ubraniami czy przyprawami. Co jednak je wypełnia, to stanowiska z jedzeniem. Znajdziemy tu przeróżne stanowiska z daniami, jak Leng Saap [XXL Pork Spine “Mountain”] — bardzo ostrą górę mięsa, suszone robaki, opalane małże, sałatki ze skaczącymi żywymi krewetkami, czy tajskie pancake'i [Thai Roti] które znajdziemy tylko w tych miejscach.
+Dużą zaletą Tajlandii są z pewnością markety. Znajdziemy na nich wiele różnych usługodawców jak fryzjerów, kosmetyczki, sklepiki z ubraniami czy przyprawami. Co jednak je wypełnia, to stanowiska z jedzeniem. Znajdziemy tu przeróżne stanowiska z daniami, jak Leng Saap _[XXL Pork Spine “Mountain”]_ — bardzo ostrą górę mięsa, suszone robaki, opalane małże, sałatki ze skaczącymi żywymi krewetkami, czy tajskie pancake'i _[Thai Roti]_ które znajdziemy tylko w tych miejscach.
 
 - [JODD FAIRS DanNeramit](https://goo.gl/maps/b9xZNg8WDunXesbE7) — nowo otwarty market z Instagram'able zamkiem oraz wieczornymi pokazami
 - [Chatuchak Weekend Market](https://goo.gl/maps/8UXivBovQsRkJMbK6) — potężny market połączony z galerią handlową. Znajdziemy tu wszystko od czegoś do zjedzenia aż po pamiątki turystyczne.
@@ -124,4 +124,4 @@ Sprawdź więcej miejsc do odwiedzenia w innych popularnych miejscach w Tajlandi
 
 - Co warto odkryć w Pattaya (w trakcie)
 - Co warto odkryć w Phuket (w trakcie)
-- Co warto odkryć w Chiang Mai (w trakcie)
+- [Co warto odkryć w Chiang Mai](/co-warto-odkryc-w-chiang-mai)
