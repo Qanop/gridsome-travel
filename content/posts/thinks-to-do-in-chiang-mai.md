@@ -1,7 +1,7 @@
 ---
 title: Co warto odkryć w Chiang Mai
 date: 2023-08-21T15:00:13.493Z
-published: false
+published: true
 tags:
   - Thinks to do
   - Chiang Mai
@@ -11,13 +11,6 @@ description: Lista zawiera 12 najlepszych rzeczy do zrobienia w Chiang Mai, od k
 ---
 
 Planując podróż do Tajlandii, wiele osób zadaje pytanie "Co warto odwiedzić". Jako że sam temat jest szeroki jak rzeka, postanowiłem stworzyć stronę zbierającą informacje najciekawszych miejsc do zobaczenia w każdym z miast. W tym wypadku cały guide-book Chiang Mai przyjmie formę tras turystycznych. 
-
-
-# Post w trakcie zbierania informacji i formowania treści!
-
-```terraform
-Post w trakcie zbierania informacji i formowania treści!
-```
 
 ## 1. Pierwszy dzień w Chiang Mai
 ![One Nimman](../../static/images/uploads/thinks_to_do_in_chiang_mai/one-nimman.jpeg "One Nimman")
