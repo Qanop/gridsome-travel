@@ -121,6 +121,7 @@ Dla chwili relaksu warto ruszyć przez miasto na wycieczkę rowerową. Na odpocz
 Dla tych kto, kto jednak chce szybciej zwiedzić najważniejsze punkty turystyczne Bangkoku, polecam wybrać się na organizowaną wycieczkę rowerową przez [covankessel.com](https://www.covankessel.com/). Firma może pochwalić się wieloma pozytywnymi recenzjami — także wśród moich znajomych, którzy z nich korzystali. Drugą opcją, jest zamówienie indywidualnej wycieczki u [Bangkok Pat](https://www.facebook.com/profile.php?id=100076442733368), dopasowanej do naszych potrzeb, którą także wiele osób zachwala.
 ___
 
+
 Sprawdź więcej miejsc do odwiedzenia w popularnych w Tajlandii!
 
 - Co warto odkryć w Pattaya (w trakcie)
