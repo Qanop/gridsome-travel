@@ -12,6 +12,8 @@ description: Lista zawiera 12 najlepszych rzeczy do zrobienia w Chiang Mai, od k
 
 Planując podróż do Tajlandii, wiele osób zadaje pytanie "Co warto odwiedzić". Jako że sam temat jest szeroki jak rzeka, postanowiłem stworzyć stronę zbierającą informacje najciekawszych miejsc do zobaczenia w każdym z miast. W tym wypadku cały guide-book Chiang Mai przyjmie formę tras turystycznych. 
 
+Zebrane informacje o Chiang Mai i plan wycieczek ułożyła dla mnie moja dziewczyna — tak więc możecie być pewni, że jako osoba z północy Tajlandii, z pewnością śledząc trasy, odkryjecie najciekawsze rzeczy tego regionu. 
+
 ## 1. Pierwszy dzień w Chiang Mai
 ![One Nimman](../../static/images/uploads/thinks_to_do_in_chiang_mai/one-nimman.jpeg "One Nimman")
 
