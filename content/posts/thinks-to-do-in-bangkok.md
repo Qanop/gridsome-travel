@@ -10,7 +10,7 @@ cover_image: ../../static/images/uploads/thinks_to_do_in_bangkok/cover.jpg
 description: Lista zawiera 12 najlepszych rzeczy do zrobienia w Bangkoku, od klasycznych atrakcji turystycznych do modnych miejsc, które mogą pomóc w zaplanowaniu idealnej podróży...
 ---
 
-Planując podróż do Tajlandii, wiele osób zadaje pytanie "Co warto odwiedzić". Jako że sam temat jest szeroki jak rzeka, postanowiłem stworzyć stronę zbierającą informacje najciekawszych miejsc do zobaczenia w każdym z miast. Jako że w Bangkoku spędziłem najwięcej czasu, przedstawię je jako pierwsze.
+Planując podróż do Tajlandii, wiele osób zadaje pytanie "Co warto odwiedzić". Jako że sam temat jest szeroki jak rzeka, postanowiłem stworzyć stronę zbierającą informacje najciekawszych miejsc do zobaczenia w każdym z miast. Jako że w Bangkoku spędziłem najwięcej czasu, przedstawię go jako pierwszy.
 
 ## 1. Zanurz się w tajskiej kuchni
 ![Pad Krapow](../../static/images/uploads/thinks_to_do_in_bangkok/pad-krapow.jpeg "Pad Krapow")
@@ -119,8 +119,9 @@ Dla chwili relaksu warto ruszyć przez miasto na wycieczkę rowerową. Na odpocz
 [Chatuchak Park](https://goo.gl/maps/bbt9rtEdypeMSVMv5) oraz [wynająć rower](https://goo.gl/maps/dx5GQ9CC2EkLUG6HA). Okolica posiada bardzo ładne ścieżki rowerowe, pola kwiatów gdzie można zrobić sobie zdjęcia, a po drodze trafimy nawet na motylarnię.
 
 Dla tych kto, kto jednak chce szybciej zwiedzić najważniejsze punkty turystyczne Bangkoku, polecam wybrać się na organizowaną wycieczkę rowerową przez [covankessel.com](https://www.covankessel.com/). Firma może pochwalić się wieloma pozytywnymi recenzjami — także wśród moich znajomych, którzy z nich korzystali. Drugą opcją, jest zamówienie indywidualnej wycieczki u [Bangkok Pat](https://www.facebook.com/profile.php?id=100076442733368), dopasowanej do naszych potrzeb, którą także wiele osób zachwala.
+___
 
-Sprawdź więcej miejsc do odwiedzenia w innych popularnych miejscach w Tajlandii!
+Sprawdź więcej miejsc do odwiedzenia w popularnych w Tajlandii!
 
 - Co warto odkryć w Pattaya (w trakcie)
 - Co warto odkryć w Phuket (w trakcie)

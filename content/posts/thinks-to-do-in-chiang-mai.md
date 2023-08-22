@@ -112,7 +112,7 @@ https://travel.trueid.net/detail/K2qVnyVo7MO
 
 
 
-Sprawdź więcej miejsc do odwiedzenia w innych popularnych miejscach w Tajlandii!
+Sprawdź więcej miejsc do odwiedzenia w popularnych w Tajlandii!
 
 - Co warto odkryć w Pattaya (w trakcie)
 - Co warto odkryć w Phuket (w trakcie)
