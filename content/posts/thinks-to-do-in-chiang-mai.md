@@ -3,11 +3,11 @@ title: Co warto odkryć w Chiang Mai
 date: 2023-08-21T15:00:13.493Z
 published: true
 tags:
-  - Thinks to do
+  - Co warto zobaczyć
   - Chiang Mai
-  - Thailand
+  - Tajlandia
 cover_image: ../../static/images/uploads/wat-phra-singh-woramahawihan-entrance.jpeg
-description: Lista zawiera 12 najlepszych rzeczy do zrobienia w Chiang Mai, od klasycznych atrakcji turystycznych do modnych miejsc, które mogą pomóc w zaplanowaniu idealnej podróży...
+description: Lista zawiera 12 najciekawszych rzeczy do odwiedzenia w Chiang Mai, od klasycznych atrakcji turystycznych do modnych miejsc, które mogą pomóc w zaplanowaniu idealnej podróży...
 ---
 
 Planując podróż do Tajlandii, wiele osób zadaje pytanie "Co warto odwiedzić". Jako że sam temat jest szeroki jak rzeka, postanowiłem stworzyć stronę zbierającą informacje najciekawszych miejsc do zobaczenia w każdym z miast. W tym wypadku cały guide-book Chiang Mai przyjmie formę tras turystycznych. 
