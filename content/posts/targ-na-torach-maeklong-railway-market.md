@@ -3,9 +3,11 @@ title: Targ na torach (Maeklong Railway Market)
 date: 2023-11-01T13:24:32.330Z
 published: true
 tags:
-  - name: tag
+  - Tajlandia
+  - Bangkok
+  - Wycieczki
 cover_image: ../../static/images/uploads/train-market.jpeg
-description: J﻿ak dostać się na Targ na torach (Maeklong Railway Market), leżący
+description: Jak dostać się na Targ na torach (Maeklong Railway Market), leżący
   w prowincji Samut Songkhram obok Bangkoku. Co warto na nim zobaczyć i czego
   możemy się spodziewać.
 ---
