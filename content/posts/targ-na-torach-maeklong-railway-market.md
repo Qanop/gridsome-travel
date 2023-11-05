@@ -14,7 +14,7 @@ Mae Klong Railway Market, to wyjątkowy i tętniący życiem targ położony w p
 # Kiedy zobaczymy przejeżdżający pociąg przez targ
 Przejeżdżającego pociągu przez targ możemy spodziewać się w godzinach podanych w tabeli.
 
-> Dane na dzień 01.11.2023, aby upewnić się co do zaistniałych zmian, aktualny rozkład jazdy znajdziemy na stronie [ttsview.railway.co.th](https://ttsview.railway.co.th/SRT_Schedule2022.php?ln=th&line=6&trip=2)
+> Dane na dzień 01.11.2023, aby upewnić się co do zaistniałych zmian, aktualny rozkład jazdy dla tej trasy znajdziemy na stronie [ttsview.railway.co.th](https://ttsview.railway.co.th/SRT_Schedule2022.php?ln=th&line=6&trip=2)
 
 | Godziny przyjazdów | Godziny odjazdów |
 |:------------------:|:----------------:|
@@ -26,21 +26,21 @@ Przejeżdżającego pociągu przez targ możemy spodziewać się w godzinach pod
 Jak widzimy po czasach, pociąg na Maeklong Railway Market pojawia się 4 razy dziennie, tak więc dobre planowanie czasu na wyjazd jest niezbędne, by zwiedzić targ oraz jego okolice.
 
 # Jak dostać się na Targ
-Do danego miejsca istnieją dwa transporty — kolej oraz bus. Z mojego doświadczenia, polecam wybrać się poranną trasą pociągiem, oraz korzystając z późniejszych odjazdów wrócić sobie spokojnie do Bangkoku busem.
+Do danego miejsca istnieją dwa transporty — kolej oraz bus. Z mojego doświadczenia, polecam wybrać się poranną trasą pociągiem, oraz korzystając z późniejszych odjazdów wrócić sobie spokojnie do Bangkoku minibusem.
 
-## Podróż pociągiem
+### Podróż pociągiem
 Pierwsze co musimy zrobić, by rozpocząć nasza podróż, jest dostanie się na dworzec [Wongwian Yai](https://maps.app.goo.gl/pNPW8oABNRr6rUEQ8). 
 
 By się tam dostać, możemy skorzystać z:
 - wysiąść na [BTS Wongwian Yai](https://maps.app.goo.gl/QCscKoDpWrXv5RoXA), ciemno-zielona linia BTS i przejść się _10min_ pieszo do dworca
 - wysiąść na [MRT Tha Phra](https://maps.app.goo.gl/KArk58f9pAe1Xvjq9) i podjechać taksówką _6min_ do dworca
-- zamówić taksówkę na Grab z dowolnego miejsca w mieście
+- zamówić taksówkę na Grab z dowolnego miejsca w mieście, nie martwiąc się o drogę do dworca
 
 ![Wongwian Yai](../../static/images/uploads/wongwian-yai-train-station.png "Wongwian Yai")
 
-Będąc na stacji, w okienku musimy kupić bilet do [Maha Chai](https://maps.app.goo.gl/SggutnM85PsNCp8u5). Podróż zaj nam około godziny. By załapać się na docelowy pociąg, mamy tak naprawdę do wyboru 2 godziny odjazdów. 
+Będąc na stacji, w okienku musimy kupić bilet do [Maha Chai](https://maps.app.goo.gl/SggutnM85PsNCp8u5). Podróż zajmie nam około godziny. By załapać się na docelowy pociąg, mamy tak naprawdę do wyboru 2 godziny odjazdów. 
 
-> Dane na dzień 01.11.2023, aby upewnić się co do zaistniałych zmian, aktualny rozkład jazdy znajdziemy na stronie [ttsview.railway.co.th](https://ttsview.railway.co.th/SRT_Schedule2022.php?ln=th&line=6&trip=2)
+> Dane na dzień 01.11.2023, aby upewnić się co do zaistniałych zmian, aktualny rozkład jazdy dla tej trasy znajdziemy na stronie [ttsview.railway.co.th](https://ttsview.railway.co.th/SRT_Schedule2022.php?ln=th&line=6&trip=2)
 
 | Wongwian Yai | Maha Chai |
 |:------------:|:---------:|
@@ -52,7 +52,7 @@ Gdy dotrzemy na miejsce, przy dworcu [Maha Chai](https://maps.app.goo.gl/SggutnM
 
 ![Maha Chai to Pier](../../static/images/uploads/map-maha-chai-to-pier.png "Maha Chai to Pier")
 
-## Podróż busem
+### Podróż busem
 Drugi, znacznie szybszy, lecz z pewnością z mniejszą ilością atrakcji jest podróż busem. Linia budów ta łączy bezpośrednio [Dworzec autobusowy Chatuchak aka Mochi 2
 ](https://maps.app.goo.gl/s99GhJtT1roWugxM8) z [Dworcem autobusowym Samut Songkhram](https://maps.app.goo.gl/RhRjMnqaXcFCKAre6). Minibusy podróżują w godzinach od 6:00 do 19:00. Choć warto sprawdzić aktualny grafik na [tej stronie](https://gogo.town/route/bangkok-samutsongkram-maeklong/), gdyż istnieje także możliwość powrotu do Bangkoku busem nawet o 20:30!
 
@@ -64,7 +64,7 @@ Piętnaście minut drogi taksówką/Grab do targu, znajduje się [Targ Wodny](ht
 ![Floating market train market boat map](../../static/images/uploads/floating-market-train-market-boat-map.jpeg "Floating market train market boat map")
 
 U sprzedawców dostępne są dwie trasy
-- Trasa widokowa po rzece i kanale, gdzie możemy zobaczyć budowle i codzienne życie zarówno w bogatej, jak i biednej części Samut Songkhram
-- Trasa składająca się z odwiedzenia 5 świątyń oraz wizyta w zoo, gdzie za jedynie 100 THB dostaniemy wielki pęk zieleniny i możemy nakarmić zwierzaki
+- Pętla widokowa po rzece i kanale, gdzie możemy zobaczyć budowle i codzienne życie zarówno w bogatej, jak i biednej części Samut Songkhram
+- Trasa składająca się z odwiedzenia 5 świątyń oraz wizyta w zoo, gdzie za jedynie 100 THB dostaniemy wielki pęk zieleniny, by nakarmić zwierzaki
 
 ![Floating market train market](../../static/images/uploads/amphawa-floating-market.jpeg "Floating market train market")
