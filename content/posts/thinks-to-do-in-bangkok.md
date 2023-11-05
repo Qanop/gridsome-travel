@@ -112,6 +112,8 @@ Dużą zaletą Tajlandii są z pewnością markety. Znajdziemy na nich wiele ró
 
 Jednym z unikalnych marketów jest z pewnością [Talad Rom Hub Market — Samut Songkhram](https://goo.gl/maps/ZzfpFY76CHEH34Db8), przez którego środek, kilka razy dziennie przejeżdża pociąg. Jest on oddalony 1.5h na zachód od Bangkoku. Możemy do niego dojechać bezpośrednio busem lub ruszyć pociągiem ze stacji [Wongwian Yai](https://goo.gl/maps/MbnvXyhATxPYQs668), przesiadając się potem na stacji [Ban Laem](https://goo.gl/maps/u8xmXnmdtUar9n7W8). Chcąc spędzić więcej czasu w okolicach Bangkoku, możemy zajrzeć także na [Amphawa Floating Market](https://goo.gl/maps/TpLGe9HFu5FVKAgn9), gdzie oprócz przyrzecznego marketu, możemy wynająć także wycieczkę łódką wzdłuż rzeki, zwiedzając 4-6 przyrzecznych świątyń, a także mini zoo.
 
+[Więcej na ten temat znajdziesz tutaj](/targ-na-torach-maeklong-railway-market)
+
 ## 12. Wycieczka rowerowa po mieście
 ![Bike trip](../../static/images/uploads/bike-trip.jpeg "Bike trip")
 
